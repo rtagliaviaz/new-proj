@@ -1,0 +1,135 @@
+body{
+  margin: 0;
+  background: #e9ecf6;
+ }
+ 
+ 
+ 
+ .container {
+   display: flex; 
+   flex-direction: column; 
+   justify-content: center; 
+   align-items: center; 
+   height: 100vh;
+   /* border: 1px solid red; */
+ }
+ 
+ .card {
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   justify-content: space-around;
+   border: 2px solid black;
+   border-radius: 8px;
+   width: 480px;
+ 
+   height: 600px;
+   background: #edecec;
+ }
+ 
+ .card-title{
+   height: 40px;
+   margin-bottom: 30px;
+   color: #000000;
+   font-size: 35px;
+   word-spacing: 8px;
+   font-weight: bold;
+ }
+ 
+ .subcard-1{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+   height: 138px;
+   font-weight: 500;
+   font-size: 20px;
+   word-spacing: 5px;
+ }
+ 
+ .total{
+   color: #a42668;
+   font-size: 21px;
+   font-weight: bold;
+ }
+ 
+ .subcard-2{
+   height: 200px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+   margin-bottom: 38px;
+   
+ }
+ 
+ .number {
+   font-size: 48px;
+   color: #852723;
+ }
+ 
+ .card-buttons{
+   margin: 0 auto;
+   display: flex;
+   width: 80%;
+   height: 50px;
+   justify-content: space-around;
+   margin-bottom: 16px;
+   cursor: pointer;
+ }
+ 
+ .button{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 24px;
+   font-weight: 400;
+   height: 48px;
+   width: 56px;
+   border: 1px solid black;
+ }
+ 
+ .reset-button,
+ .max-button{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 24px;
+   font-weight: 400;
+   width: 120px;
+   height: 48px;
+   border: 1px solid black;
+ }
+ 
+ .max-button{
+   width: 90px;
+ }
+ 
+ .mint-button{
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+   margin: 10px auto;
+   font-size: 14px;
+   height: 32px;
+   width: 70px;
+   
+   border: none;
+   border-radius: 3px;
+ 
+   background: linear-gradient(135deg, #d2a66a, #e85195);
+   box-shadow: 0 0 30px rgba(0,0,0,0.5);
+   transition: all 0.2s ease-in-out;
+ 
+   font-weight: 400;
+   color: #ffffff;
+ }
+ 
+ /* reduce size on hover min buttot */
+ .mint-button:hover{
+   /* reduce size on hover */
+   transform: scale(0.92);
+   transition: all 0.2s ease-in-out;
+ }
