@@ -8298,7 +8298,7 @@
 	  }
 	}
 
-	var css_248z = "body{\r\n  margin: 0;\r\n  background: #e9ecf6;\r\n }\r\n \r\n \r\n \r\n .container {\r\n   display: flex; \r\n   flex-direction: column; \r\n   justify-content: center; \r\n   align-items: center; \r\n   height: 100vh;\r\n   /* border: 1px solid red; */\r\n }\r\n \r\n .card {\r\n   display: flex;\r\n   flex-direction: column;\r\n   text-align: center;\r\n   justify-content: space-around;\r\n   border: 2px solid black;\r\n   border-radius: 8px;\r\n   width: 480px;\r\n \r\n   height: 600px;\r\n   background: #edecec;\r\n }\r\n \r\n .card-title{\r\n   height: 40px;\r\n   margin-bottom: 30px;\r\n   color: #000000;\r\n   font-size: 35px;\r\n   word-spacing: 8px;\r\n   font-weight: bold;\r\n }\r\n \r\n .subcard-1{\r\n   display: flex;\r\n   flex-direction: column;\r\n   justify-content: space-around;\r\n   align-items: center;\r\n   height: 138px;\r\n   font-weight: 500;\r\n   font-size: 20px;\r\n   word-spacing: 5px;\r\n }\r\n \r\n .total{\r\n   color: #a42668;\r\n   font-size: 21px;\r\n   font-weight: bold;\r\n }\r\n \r\n .subcard-2{\r\n   height: 200px;\r\n   display: flex;\r\n   flex-direction: column;\r\n   justify-content: space-around;\r\n   align-items: center;\r\n   margin-bottom: 38px;\r\n   \r\n }\r\n \r\n .number {\r\n   font-size: 48px;\r\n   color: #852723;\r\n }\r\n \r\n .card-buttons{\r\n   margin: 0 auto;\r\n   display: flex;\r\n   width: 80%;\r\n   height: 50px;\r\n   justify-content: space-around;\r\n   margin-bottom: 16px;\r\n   cursor: pointer;\r\n }\r\n \r\n .button{\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n   font-size: 24px;\r\n   font-weight: 400;\r\n   height: 48px;\r\n   width: 56px;\r\n   border: 1px solid black;\r\n }\r\n \r\n .reset-button,\r\n .max-button{\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n   font-size: 24px;\r\n   font-weight: 400;\r\n   width: 120px;\r\n   height: 48px;\r\n   border: 1px solid black;\r\n }\r\n \r\n .max-button{\r\n   width: 90px;\r\n }\r\n \r\n .mint-button{\r\n   cursor: pointer;\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n \r\n   margin: 10px auto;\r\n   font-size: 14px;\r\n   height: 32px;\r\n   width: 70px;\r\n   \r\n   border: none;\r\n   border-radius: 3px;\r\n \r\n   background: linear-gradient(135deg, #d2a66a, #e85195);\r\n   box-shadow: 0 0 30px rgba(0,0,0,0.5);\r\n   transition: all 0.2s ease-in-out;\r\n \r\n   font-weight: 400;\r\n   color: #ffffff;\r\n }\r\n \r\n /* reduce size on hover min buttot */\r\n .mint-button:hover{\r\n   /* reduce size on hover */\r\n   transform: scale(0.92);\r\n   transition: all 0.2s ease-in-out;\r\n }\r\n\r\n\r\n /* navbar */\r\n\r\n .navbar{\r\n  /* font-family: 'Times New Roman', Times, serif; */\r\n  background: #edecec;\r\n  border: 2px solid black;\r\n  border-radius: 6px;\r\n  border-top-left-radius: 0;\r\n  border-top-right-radius: 0;\r\n }\r\n\r\n  .navbar-brand{\r\n    font-size: 26px;\r\n    font-weight: bold;\r\n    color: #a42668;\r\n    text-align: center;\r\n    margin-left: 10px;\r\n  }\r\n\r\n  .nav-link{\r\n    color: #a42668;\r\n    font-size: 18px;\r\n    font-weight: bold;\r\n  }\r\n  .nav-link:hover{\r\n    color: #000000;\r\n  }\r\n\r\n  .navbar-brand:hover{\r\n    color: #000000;\r\n  }\r\n\r\n  .navbar-toggler-icon{\r\n    color: #a42668;\r\n  }\r\n\r\n  .navbar-toggler{\r\n    border: 1px solid #a42668;\r\n    color: black;\r\n    padding: 10px;\r\n    margin-right: 10px;\r\n  }";
+	var css_248z = "body{\r\n  margin: 0;\r\n  background: #e9ecf6;\r\n }\r\n \r\n \r\n \r\n .container {\r\n   display: flex; \r\n   flex-direction: column; \r\n   justify-content: center; \r\n   align-items: center; \r\n   height: 100vh;\r\n   /* border: 1px solid red; */\r\n }\r\n \r\n .card {\r\n   display: flex;\r\n   flex-direction: column;\r\n   text-align: center;\r\n   justify-content: space-around;\r\n   border: 2px solid black;\r\n   border-radius: 8px;\r\n   width: 440px;\r\n \r\n   height: 650px;\r\n   background: #edecec;\r\n }\r\n \r\n .card-title{\r\n   height: 40px;\r\n   margin-bottom: 30px;\r\n   color: #000000;\r\n   font-size: 35px;\r\n   word-spacing: 8px;\r\n   font-weight: bold;\r\n }\r\n \r\n .subcard-1{\r\n   display: flex;\r\n   flex-direction: column;\r\n   justify-content: space-around;\r\n   align-items: center;\r\n   height: 138px;\r\n   font-weight: 500;\r\n   font-size: 20px;\r\n   word-spacing: 5px;\r\n }\r\n \r\n .total{\r\n   color: #a42668;\r\n   font-size: 21px;\r\n   font-weight: bold;\r\n }\r\n \r\n .subcard-2{\r\n   height: 200px;\r\n   display: flex;\r\n   flex-direction: column;\r\n   justify-content: space-around;\r\n   align-items: center;\r\n   margin-bottom: 38px;\r\n   \r\n }\r\n \r\n .number {\r\n   font-size: 48px;\r\n   color: #852723;\r\n }\r\n \r\n .card-buttons{\r\n   margin: 0 auto;\r\n   display: flex;\r\n   width: 80%;\r\n   height: 50px;\r\n   justify-content: space-around;\r\n   margin-bottom: 16px;\r\n   cursor: pointer;\r\n }\r\n \r\n .button{\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n   font-size: 24px;\r\n   font-weight: 400;\r\n   height: 48px;\r\n   width: 56px;\r\n   border: 1px solid black;\r\n }\r\n \r\n .reset-button,\r\n .max-button{\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n   font-size: 24px;\r\n   font-weight: 400;\r\n   width: 120px;\r\n   height: 48px;\r\n   border: 1px solid black;\r\n }\r\n \r\n .max-button{\r\n   width: 90px;\r\n }\r\n \r\n .mint-button{\r\n   cursor: pointer;\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n \r\n   margin: 10px auto;\r\n   font-size: 14px;\r\n   height: 32px;\r\n   width: 70px;\r\n   \r\n   border: none;\r\n   border-radius: 3px;\r\n \r\n   background: linear-gradient(135deg, #d2a66a, #e85195);\r\n   box-shadow: 0 0 30px rgba(0,0,0,0.5);\r\n   transition: all 0.2s ease-in-out;\r\n \r\n   font-weight: 400;\r\n   color: #ffffff;\r\n }\r\n \r\n /* reduce size on hover min buttot */\r\n .mint-button:hover{\r\n   /* reduce size on hover */\r\n   transform: scale(0.92);\r\n   transition: all 0.2s ease-in-out;\r\n }\r\n\r\n /* test */\r\n\r\n .test-card {\r\n  display: flex;\r\n  flex-direction: column;\r\n  text-align: center;\r\n  justify-content: space-between;\r\n  border: 2px solid black;\r\n  border-radius: 8px;\r\n  width: 440px;\r\n\r\n  height: 650px;\r\n  background: #edecec;\r\n}\r\n\r\n.test-card-title{\r\n  /* outline: 1px solid green; */\r\n}\r\n\r\n.test-logo{\r\nheight: 40px;\r\nmargin-top: 14px;\r\ncolor: #000000;\r\nfont-size: 44px;\r\nword-spacing: 8px;\r\nfont-weight: bold;\r\n}\r\n\r\n.test-subtitle{\r\nmargin-top: 22px;\r\nfont-weight: 600;\r\nfont-size: 15px;\r\nfont-family: monospace;\r\n}\r\n\r\n.test-subcard-0{\r\n  /* outline: 1px solid blue; */\r\n  height: 190px;\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: center;\r\n}\r\n\r\n.test-total{\r\n  margin-top: 46px;\r\n}\r\n.test-total-title{\r\n  color: #a42668;\r\n  font-size: 24px;\r\n  font-weight: bold;\r\n}\r\n.test-total-number{\r\n  color: #000000;\r\n  font-size: 30px;\r\n  font-weight: bold;\r\n}\r\n\r\n.test-subcard-1{\r\n  \r\n  /* outline: 1px solid black; */\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: space-around;\r\n  align-items: center;\r\n  height: 140px;\r\n  font-weight: 500;\r\n  font-size: 20px;\r\n  word-spacing: 5px;\r\n}\r\n\r\n\r\n\r\n.test-prices{\r\n  margin-top: 30px;\r\n  /* outline: 1px solid red; */\r\n  font-size: 18px;\r\n  font-family: monospace;\r\n  height: 100px;\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: space-around;\r\n}\r\n.color{\r\n  font-weight: bold;\r\n}\r\n.test-price-1\r\n.color{\r\n  color: #ff831d;\r\n}\r\n.test-price-2\r\n.color{\r\n  color: #097fb1;\r\n}\r\n.test-price-3\r\n.color{\r\n  color: #a42769;\r\n}\r\n\r\n.total{\r\n  color: #a42668;\r\n  font-size: 21px;\r\n  font-weight: bold;\r\n}\r\n\r\n.test-subcard-2{\r\n  /* outline: 1px solid red; */\r\n  height: 110px;\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: space-around;\r\n  align-items: center;\r\n  /* margin-top: 20px; */\r\n  \r\n}\r\n\r\n.number {\r\n  height: 26px;\r\n  font-size: 26px;\r\n  color: #852723;\r\n  margin-bottom: 10px;;\r\n}\r\n\r\n.test-card-buttons{\r\n  /* outline: 1px solid red; */\r\n  margin: 0 auto;\r\n  display: flex;\r\n  width: 48%;\r\n  height: 24px;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  /* margin-bottom: 16px; */\r\n  cursor: pointer;\r\n}\r\n\r\n.test-button{\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  font-size: 14px;\r\n  font-weight: 400;\r\n  height: 22px;\r\n  width: 26px;\r\n  border: 1px solid black;\r\n}\r\n\r\n.test-reset-button,\r\n.test-max-button{\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  font-size: 14px;\r\n  font-weight: 400;\r\n  width: 60px;\r\n  height: 22px;\r\n  border: 1px solid black;\r\n}\r\n\r\n.max-button{\r\n  width: 90px;\r\n}\r\n\r\n.mint-button{\r\n  cursor: pointer;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n\r\n  margin: 10px auto;\r\n  font-size: 14px;\r\n  height: 32px;\r\n  width: 70px;\r\n  \r\n  border: none;\r\n  border-radius: 3px;\r\n\r\n  background: linear-gradient(135deg, #d2a66a, #e85195);\r\n  box-shadow: 0 0 30px rgba(0,0,0,0.5);\r\n  transition: all 0.2s ease-in-out;\r\n\r\n  font-weight: 400;\r\n  color: #ffffff;\r\n}\r\n\r\n/* reduce size on hover min buttot */\r\n.mint-button:hover{\r\n  /* reduce size on hover */\r\n  transform: scale(0.92);\r\n  transition: all 0.2s ease-in-out;\r\n}\r\n\r\n.test-footer{\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  /* outline: 1px solid orange; */\r\n  height: 20px;\r\n  font-size: 12px;\r\n  letter-spacing: 0px;\r\n  font-weight: bold;\r\n  font-family: monospace;\r\n}\r\n\r\n\r\n\r\n /* navbar */\r\n\r\n .navbar{\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    \r\n    height: 50px;\r\n    background: #edecec;\r\n    border: 1px solid black;\r\n    border-radius: 6px;\r\n    border-top-left-radius: 0;\r\n    border-top-right-radius: 0;\r\n }\r\n\r\n .nav-items{\r\n  display: flex;\r\n  height: 100%;\r\n  width: 100%;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n }\r\n\r\n .nav-items>ul>li{\r\n  list-style: none;\r\n }\r\n\r\n .items{\r\n  padding-right: 50px;\r\n  height: 100%;\r\n  display: flex;\r\n  align-items: center;\r\n }\r\n\r\n .items>li{\r\n  margin: 0 10px;\r\n  font-size: 20px;\r\n  font-weight: 500;\r\n  color: #000000;\r\n  /* cursor: pointer; */\r\n }\r\n\r\n .nav-item{\r\n  color: #a42668;\r\n    font-size: 22px;\r\n    font-weight: bold;\r\n    text-decoration: none;\r\n    margin-right: 20px;\r\n }\r\n\r\n .nav-item:hover{\r\n  color: #000000;\r\n}\r\n\r\n  .logo{\r\n    padding-left: 50px;\r\n  }\r\n\r\n  .logo-link{\r\n    text-decoration: none;\r\n    font-size: 28px;\r\n    font-weight: bold;\r\n    color: #a42668;\r\n    text-align: center;\r\n    margin-left: 10px;\r\n  }\r\n\r\n  .logo-link:hover{\r\n    color: #000000;\r\n  }\r\n";
 	styleInject(css_248z);
 
 	function _extends$1() {
@@ -8371,30 +8371,37 @@
 	}
 
 	var BeforeUnloadEventType = 'beforeunload';
+	var HashChangeEventType = 'hashchange';
 	var PopStateEventType = 'popstate';
 	/**
-	 * Browser history stores the location in regular URLs. This is the standard for
-	 * most web apps, but it requires some configuration on the server to ensure you
-	 * serve the same app at multiple URLs.
+	 * Hash history stores the location in window.location.hash. This makes it ideal
+	 * for situations where you don't want to send the location to the server for
+	 * some reason, either because you do cannot configure it or the URL space is
+	 * reserved for something else.
 	 *
-	 * @see https://github.com/remix-run/history/tree/main/docs/api-reference.md#createbrowserhistory
+	 * @see https://github.com/remix-run/history/tree/main/docs/api-reference.md#createhashhistory
 	 */
 
-	function createBrowserHistory(options) {
+
+	function createHashHistory(options) {
 	  if (options === void 0) {
 	    options = {};
 	  }
 
-	  var _options = options,
-	      _options$window = _options.window,
-	      window = _options$window === void 0 ? document.defaultView : _options$window;
+	  var _options2 = options,
+	      _options2$window = _options2.window,
+	      window = _options2$window === void 0 ? document.defaultView : _options2$window;
 	  var globalHistory = window.history;
 
 	  function getIndexAndLocation() {
-	    var _window$location = window.location,
-	        pathname = _window$location.pathname,
-	        search = _window$location.search,
-	        hash = _window$location.hash;
+	    var _parsePath = parsePath(window.location.hash.substr(1)),
+	        _parsePath$pathname = _parsePath.pathname,
+	        pathname = _parsePath$pathname === void 0 ? '/' : _parsePath$pathname,
+	        _parsePath$search = _parsePath.search,
+	        search = _parsePath$search === void 0 ? '' : _parsePath$search,
+	        _parsePath$hash = _parsePath.hash,
+	        hash = _parsePath$hash === void 0 ? '' : _parsePath$hash;
+
 	    var state = globalHistory.state || {};
 	    return [state.idx, readOnly({
 	      pathname: pathname,
@@ -8414,9 +8421,9 @@
 	    } else {
 	      var nextAction = Action.Pop;
 
-	      var _getIndexAndLocation = getIndexAndLocation(),
-	          nextIndex = _getIndexAndLocation[0],
-	          nextLocation = _getIndexAndLocation[1];
+	      var _getIndexAndLocation4 = getIndexAndLocation(),
+	          nextIndex = _getIndexAndLocation4[0],
+	          nextLocation = _getIndexAndLocation4[1];
 
 	      if (blockers.length) {
 	        if (nextIndex != null) {
@@ -8437,8 +8444,8 @@
 	          // Trying to POP to a location with no index. We did not create
 	          // this location, so we can't effectively block the navigation.
 	          warning$1(false, // TODO: Write up a doc that explains our blocking strategy in
-	          // detail and link to it here so people can understand better what
-	          // is going on and how to avoid it.
+	          // detail and link to it here so people can understand better
+	          // what is going on and how to avoid it.
 	          "You are trying to block a POP navigation to a location that was not " + "created by the history library. The block will fail silently in " + "production, but in general you should do all navigation with the " + "history library (instead of using window.history.pushState directly) " + "to avoid this situation.") ;
 	        }
 	      } else {
@@ -8447,12 +8454,23 @@
 	    }
 	  }
 
-	  window.addEventListener(PopStateEventType, handlePop);
+	  window.addEventListener(PopStateEventType, handlePop); // popstate does not fire on hashchange in IE 11 and old (trident) Edge
+	  // https://developer.mozilla.org/de/docs/Web/API/Window/popstate_event
+
+	  window.addEventListener(HashChangeEventType, function () {
+	    var _getIndexAndLocation5 = getIndexAndLocation(),
+	        nextLocation = _getIndexAndLocation5[1]; // Ignore extraneous hashchange events.
+
+
+	    if (createPath(nextLocation) !== createPath(location)) {
+	      handlePop();
+	    }
+	  });
 	  var action = Action.Pop;
 
-	  var _getIndexAndLocation2 = getIndexAndLocation(),
-	      index = _getIndexAndLocation2[0],
-	      location = _getIndexAndLocation2[1];
+	  var _getIndexAndLocation6 = getIndexAndLocation(),
+	      index = _getIndexAndLocation6[0],
+	      location = _getIndexAndLocation6[1];
 
 	  var listeners = createEvents();
 	  var blockers = createEvents();
@@ -8464,10 +8482,22 @@
 	    }), '');
 	  }
 
-	  function createHref(to) {
-	    return typeof to === 'string' ? to : createPath(to);
-	  } // state defaults to `null` because `window.history.state` does
+	  function getBaseHref() {
+	    var base = document.querySelector('base');
+	    var href = '';
 
+	    if (base && base.getAttribute('href')) {
+	      var url = window.location.href;
+	      var hashIndex = url.indexOf('#');
+	      href = hashIndex === -1 ? url : url.slice(0, hashIndex);
+	    }
+
+	    return href;
+	  }
+
+	  function createHref(to) {
+	    return getBaseHref() + '#' + (typeof to === 'string' ? to : createPath(to));
+	  }
 
 	  function getNextLocation(to, state) {
 	    if (state === void 0) {
@@ -8503,10 +8533,10 @@
 	  function applyTx(nextAction) {
 	    action = nextAction;
 
-	    var _getIndexAndLocation3 = getIndexAndLocation();
+	    var _getIndexAndLocation7 = getIndexAndLocation();
 
-	    index = _getIndexAndLocation3[0];
-	    location = _getIndexAndLocation3[1];
+	    index = _getIndexAndLocation7[0];
+	    location = _getIndexAndLocation7[1];
 	    listeners.call({
 	      action: action,
 	      location: location
@@ -8521,10 +8551,12 @@
 	      push(to, state);
 	    }
 
+	    warning$1(nextLocation.pathname.charAt(0) === '/', "Relative pathnames are not supported in hash history.push(" + JSON.stringify(to) + ")") ;
+
 	    if (allowTx(nextAction, nextLocation, retry)) {
-	      var _getHistoryStateAndUr = getHistoryStateAndUrl(nextLocation, index + 1),
-	          historyState = _getHistoryStateAndUr[0],
-	          url = _getHistoryStateAndUr[1]; // TODO: Support forced reloading
+	      var _getHistoryStateAndUr3 = getHistoryStateAndUrl(nextLocation, index + 1),
+	          historyState = _getHistoryStateAndUr3[0],
+	          url = _getHistoryStateAndUr3[1]; // TODO: Support forced reloading
 	      // try...catch because iOS limits us to 100 pushState calls :/
 
 
@@ -8548,10 +8580,12 @@
 	      replace(to, state);
 	    }
 
+	    warning$1(nextLocation.pathname.charAt(0) === '/', "Relative pathnames are not supported in hash history.replace(" + JSON.stringify(to) + ")") ;
+
 	    if (allowTx(nextAction, nextLocation, retry)) {
-	      var _getHistoryStateAndUr2 = getHistoryStateAndUrl(nextLocation, index),
-	          historyState = _getHistoryStateAndUr2[0],
-	          url = _getHistoryStateAndUr2[1]; // TODO: Support forced reloading
+	      var _getHistoryStateAndUr4 = getHistoryStateAndUrl(nextLocation, index),
+	          historyState = _getHistoryStateAndUr4[0],
+	          url = _getHistoryStateAndUr4[1]; // TODO: Support forced reloading
 
 
 	      globalHistory.replaceState(historyState, '', url);
@@ -9526,24 +9560,22 @@
 
 	const _excluded = ["onClick", "reloadDocument", "replace", "state", "target", "to"],
 	      _excluded2 = ["aria-current", "caseSensitive", "className", "end", "style", "to", "children"];
-	// COMPONENTS
-	////////////////////////////////////////////////////////////////////////////////
-
 	/**
-	 * A `<Router>` for use in web browsers. Provides the cleanest URLs.
+	 * A `<Router>` for use in web browsers. Stores the location in the hash
+	 * portion of the URL so it is not sent to the server.
 	 */
 
 
-	function BrowserRouter(_ref) {
+	function HashRouter(_ref2) {
 	  let {
 	    basename,
 	    children,
 	    window
-	  } = _ref;
+	  } = _ref2;
 	  let historyRef = react.exports.useRef();
 
 	  if (historyRef.current == null) {
-	    historyRef.current = createBrowserHistory({
+	    historyRef.current = createHashHistory({
 	      window
 	    });
 	  }
@@ -9840,33 +9872,57 @@
 
 	var Navbar = function Navbar() {
 	  return /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("nav", {
-	    className: "navbar navbar-expand-sm "
-	  }, /*#__PURE__*/React.createElement(Link, {
-	    className: "navbar-brand",
-	    to: "/"
-	  }, "Logo"), /*#__PURE__*/React.createElement("div", {
-	    className: "collapse navbar-collapse",
-	    id: "navbarSupportedContent"
+	    className: "navbar"
+	  }, /*#__PURE__*/React.createElement("div", {
+	    className: "nav-items"
 	  }, /*#__PURE__*/React.createElement("ul", {
-	    className: "navbar-nav ml-auto"
-	  }, /*#__PURE__*/React.createElement("li", {
+	    className: "logo"
+	  }, /*#__PURE__*/React.createElement("li", null, /*#__PURE__*/React.createElement(Link, {
+	    to: "/",
+	    className: "logo-link"
+	  }, "Logo"))), /*#__PURE__*/React.createElement("ul", {
+	    className: "items"
+	  }, /*#__PURE__*/React.createElement("li", null, /*#__PURE__*/React.createElement(Link, {
+	    to: "/",
 	    className: "nav-item"
-	  }, /*#__PURE__*/React.createElement(Link, {
-	    className: "nav-link",
-	    to: "/"
-	  }, "Home")), /*#__PURE__*/React.createElement("li", {
+	  }, "Home")), /*#__PURE__*/React.createElement("li", null, /*#__PURE__*/React.createElement(Link, {
+	    to: "/test",
 	    className: "nav-item"
-	  }, /*#__PURE__*/React.createElement(Link, {
-	    className: "nav-link",
-	    to: "/test"
-	  }, "Test"))))));
+	  }, "Test")))))) //    <div>
+	  //     <nav className="navbar navbar-expand-sm ">
+	  //   <Link className="navbar-brand" to="/">Logo</Link>
+	  //   <div className="collapse navbar-collapse" id="navbarSupportedContent">
+	  //     <ul className="navbar-nav ml-auto">
+	  //       <li className="nav-item" >
+	  //         <Link className="nav-link" to="/">Home</Link>
+	  //       </li>
+	  //       <li className="nav-item" >
+	  //         <Link className="nav-link" to="/test">Test</Link>
+	  //       </li>
+	  //     </ul>
+	  //   </div>
+	  // </nav>
+	  //    </div>
+	  ;
 	};
 
 	var Main = function Main() {
 	  var _useState = react.exports.useState(1),
-	      _useState2 = _slicedToArray(_useState, 2);
-	      _useState2[0];
-	      _useState2[1];
+	      _useState2 = _slicedToArray(_useState, 2),
+	      nftCount = _useState2[0],
+	      setNftCount = _useState2[1];
+
+	  var handleDecrement = function handleDecrement() {
+	    if (nftCount > 1) {
+	      setNftCount(nftCount - 1);
+	    }
+	  };
+
+	  var handleIncrement = function handleIncrement() {
+	    if (nftCount < 50) {
+	      setNftCount(nftCount + 1);
+	    }
+	  };
 
 	  return (
 	    /*#__PURE__*/
@@ -9874,15 +9930,76 @@
 	    React.createElement("div", {
 	      className: "container"
 	    }, /*#__PURE__*/React.createElement("div", {
-	      className: "card"
+	      className: "test-card"
 	    }, /*#__PURE__*/React.createElement("div", {
-	      className: "card-title"
-	    }, "Test")))
+	      className: "test-card-title"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-logo"
+	    }, "Logo"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-subtitle"
+	    }, /*#__PURE__*/React.createElement("span", null, "Giving 600 ETH Back"))), /*#__PURE__*/React.createElement("div", {
+	      className: "test-subcard-0"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-total"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-total-title"
+	    }, "Total Minted:"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-total-number"
+	    }, "0/3,333"))), /*#__PURE__*/React.createElement("div", {
+	      className: "test-subcard-1"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-prices"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-price-1"
+	    }, /*#__PURE__*/React.createElement("span", {
+	      className: "color"
+	    }, "Phase 1 Price:"), " 0.133 ETH"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-price-2"
+	    }, /*#__PURE__*/React.createElement("span", {
+	      className: "color"
+	    }, "Phase 2 Price:"), " 0.166 ETH"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-price-3"
+	    }, /*#__PURE__*/React.createElement("span", {
+	      className: "color"
+	    }, "Phase 3 Price:"), " 0.199 ETH"))), /*#__PURE__*/React.createElement("div", {
+	      className: "test-subcard-2"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "number"
+	    }, nftCount), /*#__PURE__*/React.createElement("div", {
+	      className: "test-card-buttons"
+	    }, /*#__PURE__*/React.createElement("div", {
+	      className: "test-button",
+	      onClick: function onClick() {
+	        return handleIncrement();
+	      }
+	    }, "+"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-button",
+	      onClick: function onClick() {
+	        return handleDecrement();
+	      }
+	    }, "-"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-max-button",
+	      onClick: function onClick() {
+	        return setNftCount(50);
+	      }
+	    }, "Max"), /*#__PURE__*/React.createElement("div", {
+	      className: "test-reset-button",
+	      onClick: function onClick() {
+	        return setNftCount(1);
+	      }
+	    }, "Reset")), /*#__PURE__*/React.createElement("div", {
+	      className: "mint-button",
+	      onClick: function onClick() {
+	        return alert("I will mint ".concat(nftCount, " NFTs"));
+	      }
+	    }, "Mint")), /*#__PURE__*/React.createElement("div", {
+	      className: "test-footer"
+	    }, /*#__PURE__*/React.createElement("span", null, "Reveals after every 500 mints"))))
 	  );
 	};
 
 	function App() {
-	  return /*#__PURE__*/React.createElement(BrowserRouter, null, /*#__PURE__*/React.createElement(Navbar, null), /*#__PURE__*/React.createElement(Routes, null, /*#__PURE__*/React.createElement(Route, {
+	  return /*#__PURE__*/React.createElement(HashRouter, null, /*#__PURE__*/React.createElement(Navbar, null), /*#__PURE__*/React.createElement(Routes, null, /*#__PURE__*/React.createElement(Route, {
 	    path: "/",
 	    element: /*#__PURE__*/React.createElement(Main$1, null)
 	  }), /*#__PURE__*/React.createElement(Route, {
